@@ -8,7 +8,7 @@ DISCLAIMER : tools ini hanya untuk bersenang-senang, jangan disalah gunakan
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbC13UP1CYoODnULpp3E">
-    <img src="https://img.shields.io/badge/channel%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a&color=25D366"
+    <img src="https://img.shields.io/badge/follow%20channel%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a&color=25D366"
          style="height:40px; margin:4px;"/>
   </a>
   <a href="https://www.instagram.com/main.pyc?igsh=c2FwNWU2dTloOHY3">
