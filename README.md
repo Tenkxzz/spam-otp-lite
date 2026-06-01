@@ -26,7 +26,7 @@ DISCLAIMER : tools ini hanya untuk bersenang-senang, jangan disalah gunakan
 > pkg install python-pip -y
 > pip install requests
 > 
-> git clone https://github.com/Tenkxzz/acak-ktp-lite.git
+> git clone https://github.com/Tenkxzz/spam-otp-lite.git
 > cd spam-otp-lite 
 > python main.py
 > 
