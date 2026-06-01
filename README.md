@@ -4,7 +4,7 @@ tools ini berfungsi untuk nge spam kode otp ke no whatsapp
 DISCLAIMER : tools ini hanya untuk bersenang-senang, jangan disalah gunakan 
 
 ---
-![alt text](https://github.com/Tenkxzz/acak-ktp-lite/blob/main/foto.jpg)
+![alt text](https://github.com/Tenkxzz/spam-otp-lite/blob/main/jawa.jpg)
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbC13UP1CYoODnULpp3E">
